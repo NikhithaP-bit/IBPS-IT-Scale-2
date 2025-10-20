@@ -1,0 +1,5 @@
+{
+  "name": "IBPS IT Officer Pro",
+  "description": "An AI-powered study assistant to help you prepare for the IBPS Scale 2 IT Officer exam. It provides detailed explanations for all topics across the syllabus using the Gemini API.",
+  "requestFramePermissions": []
+}
